@@ -1,4 +1,4 @@
-package PadroesDeProjeto;
+package PadroesDeProjeto.singleton;
 
 /**
  * Primeiro Singleton

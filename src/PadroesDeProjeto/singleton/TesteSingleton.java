@@ -1,4 +1,4 @@
-package PadroesDeProjeto;
+package PadroesDeProjeto.singleton;
 
 public class TesteSingleton {
     public static void main(String[] args) {

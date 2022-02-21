@@ -1,4 +1,4 @@
-package PadroesDeProjeto;
+package PadroesDeProjeto.singleton;
 
 /**
  * @author Francisco Gomes Cordeiro Neto
